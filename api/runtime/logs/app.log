@@ -1,0 +1,1435 @@
+2015-10-29 09:02:18 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Request.php:190
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2015-10-29 09:02:18 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1914915960.1446037508'
+    '_csrf' => '488d2b7779906d2320fdad864d23b9cbe82cbe27c89e6b3cbe381b15302efad0a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"iYEOKXx3tackF3uvrD-Iplzsxu-X-tIX\";}'
+    'PHPSESSID' => '9blkf94rqeg3bf3ai4cne1so31'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_REFERER' => 'http://localhost/easyecom-2/api/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => '_ga=GA1.1.1914915960.1446037508; _csrf=488d2b7779906d2320fdad864d23b9cbe82cbe27c89e6b3cbe381b15302efad0a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22iYEOKXx3tackF3uvrD-Iplzsxu-X-tIX%22%3B%7D; PHPSESSID=9blkf94rqeg3bf3ai4cne1so31'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52486'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446105738.53
+    'REQUEST_TIME' => 1446105738
+]
+2015-10-29 09:02:26 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Request.php:190
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2015-10-29 09:02:26 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1914915960.1446037508'
+    '_csrf' => '488d2b7779906d2320fdad864d23b9cbe82cbe27c89e6b3cbe381b15302efad0a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"iYEOKXx3tackF3uvrD-Iplzsxu-X-tIX\";}'
+    'PHPSESSID' => '9blkf94rqeg3bf3ai4cne1so31'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => '_ga=GA1.1.1914915960.1446037508; _csrf=488d2b7779906d2320fdad864d23b9cbe82cbe27c89e6b3cbe381b15302efad0a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22iYEOKXx3tackF3uvrD-Iplzsxu-X-tIX%22%3B%7D; PHPSESSID=9blkf94rqeg3bf3ai4cne1so31'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52489'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/books'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/books'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446105746.498
+    'REQUEST_TIME' => 1446105746
+]
+2015-10-29 09:02:32 [::1][-][-][error][yii\base\InvalidConfigException] exception 'yii\base\InvalidConfigException' with message 'Unknown component ID: db' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\di\ServiceLocator.php:136
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(491): yii\di\ServiceLocator->get('db')
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveRecord.php(133): yii\base\Application->getDb()
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveQuery.php(320): yii\db\ActiveRecord::getDb()
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Query.php(382): yii\db\ActiveQuery->createCommand(NULL)
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveQuery.php(339): yii\db\Query->queryScalar('COUNT(*)', NULL)
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Query.php(296): yii\db\ActiveQuery->queryScalar('COUNT(*)', NULL)
+#6 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\ActiveDataProvider.php(165): yii\db\Query->count('*', NULL)
+#7 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\BaseDataProvider.php(147): yii\data\ActiveDataProvider->prepareTotalCount()
+#8 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\ActiveDataProvider.php(105): yii\data\BaseDataProvider->getTotalCount()
+#9 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\BaseDataProvider.php(79): yii\data\ActiveDataProvider->prepareModels()
+#10 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\BaseDataProvider.php(92): yii\data\BaseDataProvider->prepare()
+#11 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Serializer.php(174): yii\data\BaseDataProvider->getModels()
+#12 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Serializer.php(143): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#13 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Controller.php(97): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#14 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Controller.php(75): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#15 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(153): yii\rest\Controller->afterAction(Object(yii\rest\IndexAction), Object(yii\data\ActiveDataProvider))
+#16 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('index', Array)
+#17 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/country/inde...', Array)
+#18 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#19 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#20 {main}
+2015-10-29 09:02:32 [::1][-][-][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1914915960.1446037508'
+    '_csrf' => '488d2b7779906d2320fdad864d23b9cbe82cbe27c89e6b3cbe381b15302efad0a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"iYEOKXx3tackF3uvrD-Iplzsxu-X-tIX\";}'
+    'PHPSESSID' => '9blkf94rqeg3bf3ai4cne1so31'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'HTTP_COOKIE' => '_ga=GA1.1.1914915960.1446037508; _csrf=488d2b7779906d2320fdad864d23b9cbe82cbe27c89e6b3cbe381b15302efad0a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22iYEOKXx3tackF3uvrD-Iplzsxu-X-tIX%22%3B%7D; PHPSESSID=9blkf94rqeg3bf3ai4cne1so31'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52491'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/countries'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/countries'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446105752.566
+    'REQUEST_TIME' => 1446105752
+]
+2015-10-29 09:02:49 [::1][-][-][error][yii\base\InvalidConfigException] exception 'yii\base\InvalidConfigException' with message 'Unknown component ID: db' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\di\ServiceLocator.php:136
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(491): yii\di\ServiceLocator->get('db')
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveRecord.php(133): yii\base\Application->getDb()
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveQuery.php(320): yii\db\ActiveRecord::getDb()
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Query.php(382): yii\db\ActiveQuery->createCommand(NULL)
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveQuery.php(339): yii\db\Query->queryScalar('COUNT(*)', NULL)
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Query.php(296): yii\db\ActiveQuery->queryScalar('COUNT(*)', NULL)
+#6 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\ActiveDataProvider.php(165): yii\db\Query->count('*', NULL)
+#7 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\BaseDataProvider.php(147): yii\data\ActiveDataProvider->prepareTotalCount()
+#8 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\ActiveDataProvider.php(105): yii\data\BaseDataProvider->getTotalCount()
+#9 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\BaseDataProvider.php(79): yii\data\ActiveDataProvider->prepareModels()
+#10 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\BaseDataProvider.php(92): yii\data\BaseDataProvider->prepare()
+#11 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Serializer.php(174): yii\data\BaseDataProvider->getModels()
+#12 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Serializer.php(143): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#13 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Controller.php(97): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#14 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Controller.php(75): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#15 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(153): yii\rest\Controller->afterAction(Object(yii\rest\IndexAction), Object(yii\data\ActiveDataProvider))
+#16 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('index', Array)
+#17 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/country/inde...', Array)
+#18 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#19 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#20 {main}
+2015-10-29 09:02:49 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '1e2688ee-f28f-791d-3b31-f6602d880438'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52492'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/countries'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/countries'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446105769.069
+    'REQUEST_TIME' => 1446105769
+]
+2015-10-29 09:16:22 [::1][-][-][error][yii\db\Exception] exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pciapi.country' doesn't exist' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Command.php:837
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Command.php(837): PDOStatement->execute()
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Command.php(385): yii\db\Command->queryInternal('fetchColumn', 0)
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Query.php(389): yii\db\Command->queryScalar()
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveQuery.php(339): yii\db\Query->queryScalar('COUNT(*)', NULL)
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Query.php(296): yii\db\ActiveQuery->queryScalar('COUNT(*)', NULL)
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\ActiveDataProvider.php(165): yii\db\Query->count('*', NULL)
+#6 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\BaseDataProvider.php(147): yii\data\ActiveDataProvider->prepareTotalCount()
+#7 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\ActiveDataProvider.php(105): yii\data\BaseDataProvider->getTotalCount()
+#8 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\BaseDataProvider.php(79): yii\data\ActiveDataProvider->prepareModels()
+#9 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\BaseDataProvider.php(92): yii\data\BaseDataProvider->prepare()
+#10 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Serializer.php(174): yii\data\BaseDataProvider->getModels()
+#11 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Serializer.php(143): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#12 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Controller.php(97): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#13 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Controller.php(75): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#14 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(153): yii\rest\Controller->afterAction(Object(yii\rest\IndexAction), Object(yii\data\ActiveDataProvider))
+#15 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('index', Array)
+#16 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/country/inde...', Array)
+#17 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#18 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#19 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pciapi.country' doesn't exist
+The SQL being executed was: SELECT COUNT(*) FROM `country`' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Schema.php:628
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Command.php(852): yii\db\Schema->convertException(Object(PDOException), 'SELECT COUNT(*)...')
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Command.php(385): yii\db\Command->queryInternal('fetchColumn', 0)
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Query.php(389): yii\db\Command->queryScalar()
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveQuery.php(339): yii\db\Query->queryScalar('COUNT(*)', NULL)
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\Query.php(296): yii\db\ActiveQuery->queryScalar('COUNT(*)', NULL)
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\ActiveDataProvider.php(165): yii\db\Query->count('*', NULL)
+#6 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\BaseDataProvider.php(147): yii\data\ActiveDataProvider->prepareTotalCount()
+#7 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\ActiveDataProvider.php(105): yii\data\BaseDataProvider->getTotalCount()
+#8 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\BaseDataProvider.php(79): yii\data\ActiveDataProvider->prepareModels()
+#9 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\data\BaseDataProvider.php(92): yii\data\BaseDataProvider->prepare()
+#10 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Serializer.php(174): yii\data\BaseDataProvider->getModels()
+#11 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Serializer.php(143): yii\rest\Serializer->serializeDataProvider(Object(yii\data\ActiveDataProvider))
+#12 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Controller.php(97): yii\rest\Serializer->serialize(Object(yii\data\ActiveDataProvider))
+#13 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Controller.php(75): yii\rest\Controller->serializeData(Object(yii\data\ActiveDataProvider))
+#14 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(153): yii\rest\Controller->afterAction(Object(yii\rest\IndexAction), Object(yii\data\ActiveDataProvider))
+#15 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('index', Array)
+#16 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/country/inde...', Array)
+#17 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#18 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#19 {main}
+Additional Information:
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'pciapi.country' doesn't exist
+)
+
+2015-10-29 09:16:22 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => 'd2787e03-3131-abb9-6d06-abd25e3a8831'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52571'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/countries'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/countries'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446106582.189
+    'REQUEST_TIME' => 1446106582
+]
+2015-10-29 09:25:44 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Request.php:190
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2015-10-29 09:25:44 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '93cf5f1d-f520-2dea-f9fc-5ee9c2e43014'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52594'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/product'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/product'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446107144.288
+    'REQUEST_TIME' => 1446107144
+]
+2015-10-29 09:25:47 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Request.php:190
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2015-10-29 09:25:47 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => 'c9b274e0-afbd-515d-944f-6a54d0e57da6'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52594'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/products'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/products'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446107147.489
+    'REQUEST_TIME' => 1446107147
+]
+2015-10-29 09:25:56 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Request.php:190
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2015-10-29 09:25:56 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => 'bbbfef13-1fd0-cd26-9314-e308e5e6eb49'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52596'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/bills'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/bills'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446107156.562
+    'REQUEST_TIME' => 1446107156
+]
+2015-10-29 09:26:53 [::1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Undefined index: auth_key' in C:\wamp\www\easyecom-2\api\modules\v1\controllers\BillController.php:47
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\IndexAction.php(54): ::call_user_func:{C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\IndexAction.php:54}()
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\IndexAction.php(44): yii\rest\IndexAction->prepareDataProvider()
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Action.php(92): yii\rest\IndexAction->run()
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Action.php(92): ::call_user_func_array:{C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Action.php:92}()
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\Action->runWithParams()
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction()
+#6 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction()
+#7 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest()
+#8 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#9 {main}
+2015-10-29 09:26:53 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '50fd3976-0afc-b017-f6e7-71b310d725aa'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52601'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/bills'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/bills'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446107213.848
+    'REQUEST_TIME' => 1446107213
+]
+2015-10-29 09:27:21 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Request.php:190
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2015-10-29 09:27:21 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '3eb9ab20-5901-b382-c658-7b32d20df17a'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52602'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/users'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446107241.035
+    'REQUEST_TIME' => 1446107241
+]
+2015-10-29 09:27:39 [::1][-][-][error][yii\web\HttpException:401] exception 'yii\web\UnauthorizedHttpException' with message 'You are requesting with an invalid credential.' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\filters\auth\AuthMethod.php:73
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\filters\auth\AuthMethod.php(56): yii\filters\auth\AuthMethod->handleFailure(Object(yii\web\Response))
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\ActionFilter.php(71): yii\filters\auth\AuthMethod->beforeAction(Object(yii\rest\IndexAction))
+#2 [internal function]: yii\base\ActionFilter->beforeFilter(Object(yii\base\ActionEvent))
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Component.php(541): call_user_func(Array, Object(yii\base\ActionEvent))
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(263): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Controller.php(108): yii\base\Controller->beforeAction(Object(yii\rest\IndexAction))
+#6 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(149): yii\web\Controller->beforeAction(Object(yii\rest\IndexAction))
+#7 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('index', Array)
+#8 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/user/index', Array)
+#9 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2015-10-29 09:27:39 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '46cb1445-a720-9553-09a4-258db33dbc8a'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52603'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/users'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446107259.122
+    'REQUEST_TIME' => 1446107259
+]
+2015-10-29 09:27:49 [::1][-][-][error][yii\web\HttpException:401] exception 'yii\web\UnauthorizedHttpException' with message 'You are requesting with an invalid credential.' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\filters\auth\AuthMethod.php:73
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\filters\auth\AuthMethod.php(56): yii\filters\auth\AuthMethod->handleFailure(Object(yii\web\Response))
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\ActionFilter.php(71): yii\filters\auth\AuthMethod->beforeAction(Object(yii\rest\CreateAction))
+#2 [internal function]: yii\base\ActionFilter->beforeFilter(Object(yii\base\ActionEvent))
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Component.php(541): call_user_func(Array, Object(yii\base\ActionEvent))
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(263): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Controller.php(108): yii\base\Controller->beforeAction(Object(yii\rest\CreateAction))
+#6 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(149): yii\web\Controller->beforeAction(Object(yii\rest\CreateAction))
+#7 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('create', Array)
+#8 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/user/create', Array)
+#9 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2015-10-29 09:27:49 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '1b25dbb8-c087-e074-5ecf-94b2aa911936'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52604'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/users'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446107269.419
+    'REQUEST_TIME' => 1446107269
+]
+2015-10-29 09:28:14 [::1][-][-][error][yii\web\HttpException:401] exception 'yii\web\UnauthorizedHttpException' with message 'You are requesting with an invalid credential.' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\filters\auth\AuthMethod.php:73
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\filters\auth\AuthMethod.php(56): yii\filters\auth\AuthMethod->handleFailure(Object(yii\web\Response))
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\ActionFilter.php(71): yii\filters\auth\AuthMethod->beforeAction(Object(yii\rest\CreateAction))
+#2 [internal function]: yii\base\ActionFilter->beforeFilter(Object(yii\base\ActionEvent))
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Component.php(541): call_user_func(Array, Object(yii\base\ActionEvent))
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(263): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Controller.php(108): yii\base\Controller->beforeAction(Object(yii\rest\CreateAction))
+#6 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(149): yii\web\Controller->beforeAction(Object(yii\rest\CreateAction))
+#7 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('create', Array)
+#8 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/user/create', Array)
+#9 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#10 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#11 {main}
+2015-10-29 09:28:14 [::1][-][-][info][application] $_GET = [
+    'email' => 'safnskj'
+    'password' => 'skjvndf'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '7166cb95-5738-0212-e7bb-b4eb3eba01b2'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52606'
+    'REDIRECT_QUERY_STRING' => 'email=safnskj&password=skjvndf'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => 'email=safnskj&password=skjvndf'
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/users?email=safnskj&password=skjvndf'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446107294.383
+    'REQUEST_TIME' => 1446107294
+]
+2015-10-29 09:28:47 [::1][-][-][error][yii\base\InvalidConfigException] exception 'yii\base\InvalidConfigException' with message 'The table does not exist: {{%user}}' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveRecord.php:298
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveRecord.php(327): yii\db\ActiveRecord::getTableSchema()
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\BaseActiveRecord.php(422): yii\db\ActiveRecord->attributes()
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\BaseActiveRecord.php(264): yii\db\BaseActiveRecord->hasAttribute('scenario')
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\BaseYii.php(518): yii\db\BaseActiveRecord->__set('scenario', 'default')
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Object.php(105): yii\BaseYii::configure(Object(common\models\User), Array)
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\CreateAction.php(47): yii\base\Object->__construct(Array)
+#6 [internal function]: yii\rest\CreateAction->run()
+#7 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Action.php(92): call_user_func_array(Array, Array)
+#8 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\Action->runWithParams(Array)
+#9 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('create', Array)
+#10 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/user/create', Array)
+#11 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#12 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#13 {main}
+2015-10-29 09:28:47 [::1][-][-][info][application] $_GET = [
+    'email' => 'safnskj'
+    'password' => 'skjvndf'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '6fe493a0-4d88-a90d-46ea-a30ef7862c6f'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52607'
+    'REDIRECT_QUERY_STRING' => 'email=safnskj&password=skjvndf'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => 'email=safnskj&password=skjvndf'
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/users?email=safnskj&password=skjvndf'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446107327.418
+    'REQUEST_TIME' => 1446107327
+]
+2015-10-29 09:29:00 [::1][-][-][error][yii\base\InvalidConfigException] exception 'yii\base\InvalidConfigException' with message 'The table does not exist: {{%user}}' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveRecord.php:298
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveRecord.php(327): yii\db\ActiveRecord::getTableSchema()
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\BaseActiveRecord.php(422): yii\db\ActiveRecord->attributes()
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\BaseActiveRecord.php(264): yii\db\BaseActiveRecord->hasAttribute('scenario')
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\BaseYii.php(518): yii\db\BaseActiveRecord->__set('scenario', 'default')
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Object.php(105): yii\BaseYii::configure(Object(common\models\User), Array)
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\CreateAction.php(47): yii\base\Object->__construct(Array)
+#6 [internal function]: yii\rest\CreateAction->run()
+#7 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Action.php(92): call_user_func_array(Array, Array)
+#8 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\Action->runWithParams(Array)
+#9 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('create', Array)
+#10 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/user/create', Array)
+#11 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#12 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#13 {main}
+2015-10-29 09:28:59 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => 'd29704bc-aab8-ac5d-aced-4b414b81cc22'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52609'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/users'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446107339.928
+    'REQUEST_TIME' => 1446107339
+]
+2015-10-29 09:29:39 [::1][-][-][error][yii\base\UnknownPropertyException] exception 'yii\base\UnknownPropertyException' with message 'Getting unknown property: common\models\User::status' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Component.php:143
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\BaseActiveRecord.php(247): yii\base\Component->__get('status')
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\validators\DefaultValueValidator.php(46): yii\db\BaseActiveRecord->__get('status')
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\validators\Validator.php(240): yii\validators\DefaultValueValidator->validateAttribute(Object(common\models\User), 'status')
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Model.php(352): yii\validators\Validator->validateAttributes(Object(common\models\User), Array)
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveRecord.php(418): yii\base\Model->validate(NULL)
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\BaseActiveRecord.php(593): yii\db\ActiveRecord->insert(true, NULL)
+#6 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\CreateAction.php(50): yii\db\BaseActiveRecord->save()
+#7 [internal function]: yii\rest\CreateAction->run()
+#8 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Action.php(92): call_user_func_array(Array, Array)
+#9 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\Action->runWithParams(Array)
+#10 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('create', Array)
+#11 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/user/create', Array)
+#12 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#13 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#14 {main}
+2015-10-29 09:29:39 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '913d1bac-13dd-fe93-9aa0-76c92ae8005e'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52611'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/users'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446107379.572
+    'REQUEST_TIME' => 1446107379
+]
+2015-10-29 09:30:31 [::1][-][-][error][yii\base\UnknownPropertyException] exception 'yii\base\UnknownPropertyException' with message 'Setting unknown property: common\models\User::created_at' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Component.php:197
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\BaseActiveRecord.php(267): yii\base\Component->__set('created_at', 1446107431)
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\behaviors\AttributeBehavior.php(99): yii\db\BaseActiveRecord->__set('created_at', 1446107431)
+#2 [internal function]: yii\behaviors\AttributeBehavior->evaluateAttributes(Object(yii\base\ModelEvent))
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Component.php(541): call_user_func(Array, Object(yii\base\ModelEvent))
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\BaseActiveRecord.php(888): yii\base\Component->trigger('beforeInsert', Object(yii\base\ModelEvent))
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveRecord.php(450): yii\db\BaseActiveRecord->beforeSave(true)
+#6 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\ActiveRecord.php(424): yii\db\ActiveRecord->insertInternal(NULL)
+#7 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\BaseActiveRecord.php(593): yii\db\ActiveRecord->insert(true, NULL)
+#8 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\CreateAction.php(50): yii\db\BaseActiveRecord->save()
+#9 [internal function]: yii\rest\CreateAction->run()
+#10 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Action.php(92): call_user_func_array(Array, Array)
+#11 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\Action->runWithParams(Array)
+#12 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('create', Array)
+#13 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/user/create', Array)
+#14 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#15 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#16 {main}
+2015-10-29 09:30:31 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => 'bf8b68a8-1ce2-51e7-6334-eee0ff8acb03'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52614'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/users'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446107431.166
+    'REQUEST_TIME' => 1446107431
+]
+2015-10-29 09:51:28 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Object not found: gettoken' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\Action.php:101
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\ViewAction.php(27): yii\rest\Action->findModel('gettoken')
+#1 [internal function]: yii\rest\ViewAction->run('gettoken')
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Action.php(92): call_user_func_array(Array, Array)
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\Action->runWithParams(Array)
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view', Array)
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/user/view', Array)
+#6 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#8 {main}
+2015-10-29 09:51:28 [::1][-][-][info][application] $_GET = [
+    'id' => 'gettoken'
+    'email' => 'safnskj'
+    'password' => 'skjvndf'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '933cc8ce-c505-3d64-ef2c-ddcb11063199'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52938'
+    'REDIRECT_QUERY_STRING' => 'email=safnskj&password=skjvndf'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/users/gettoken'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'email=safnskj&password=skjvndf'
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/users/gettoken?email=safnskj&password=skjvndf'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446108688.67
+    'REQUEST_TIME' => 1446108688
+]
+2015-10-29 09:59:37 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Request.php:190
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#3 {main}
+2015-10-29 09:59:37 [::1][-][-][info][application] $_GET = [
+    'email' => 'safnskj'
+    'password' => 'skjvndf'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '6a8bd51c-5757-8c03-1351-995398fa419a'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52960'
+    'REDIRECT_QUERY_STRING' => 'email=safnskj&password=skjvndf'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/users/gettoken'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'email=safnskj&password=skjvndf'
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/users/gettoken?email=safnskj&password=skjvndf'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446109177.348
+    'REQUEST_TIME' => 1446109177
+]
+2015-10-29 10:01:19 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: v1/user/create' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php:122
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('create', Array)
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/user/create', Array)
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php:96
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2015-10-29 10:01:19 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '2eb5c0b4-1231-6c12-60bd-5cf1f02b0e0b'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52966'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/users'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446109279.036
+    'REQUEST_TIME' => 1446109279
+]
+2015-10-29 10:01:32 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: v1/user/create' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php:122
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('create', Array)
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/user/create', Array)
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php:96
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2015-10-29 10:01:32 [::1][-][-][info][application] $_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '5b92737f-73c3-2f90-efb9-a4932b1da1bd'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52966'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/users'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/users'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446109291.998
+    'REQUEST_TIME' => 1446109291
+]
+2015-10-29 10:02:36 [::1][-][-][error][yii\base\UnknownPropertyException] exception 'yii\base\UnknownPropertyException' with message 'Setting unknown property: common\models\User::auth_key_expire' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Component.php:197
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\db\BaseActiveRecord.php(267): yii\base\Component->__set('auth_key_expire', '2015-11-05 10:0...')
+#1 C:\wamp\www\easyecom-2\common\models\User.php(147): yii\db\BaseActiveRecord->__set('auth_key_expire', '2015-11-05 10:0...')
+#2 C:\wamp\www\easyecom-2\api\modules\v1\controllers\UserController.php(35): common\models\User->generateAuthKey('abc@abc.com', 'e99a18c428cb38d...')
+#3 [internal function]: api\modules\v1\controllers\UserController->actionGettoken('abc@abc.com', 'e99a18c428cb38d...')
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#6 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('gettoken', Array)
+#7 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/user/gettoke...', Array)
+#8 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#10 {main}
+2015-10-29 10:02:36 [::1][-][-][info][application] $_GET = [
+    'email' => 'abc@abc.com'
+    'password' => 'e99a18c428cb38d5f260853678922e03'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '5c6db649-62cb-2760-466e-6219101e3be1'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52971'
+    'REDIRECT_QUERY_STRING' => 'email=abc@abc.com&password=e99a18c428cb38d5f260853678922e03'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/users/gettoken'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => 'email=abc@abc.com&password=e99a18c428cb38d5f260853678922e03'
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/users/gettoken?email=abc@abc.com&password=e99a18c428cb38d5f260853678922e03'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446109356.243
+    'REQUEST_TIME' => 1446109356
+]
+2015-10-29 10:03:51 [::1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request: v1/bill/create' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php:122
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('create', Array)
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('v1/bill/create', Array)
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#4 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php:96
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2015-10-29 10:03:51 [::1][-][-][info][application] $_GET = [
+    'auth_key' => 'FMBr4Cr408QvrXy5Q9LFbjdzVx7E2rbg'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '8a9831e0-d461-d566-d041-7ca35955c2d0'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52985'
+    'REDIRECT_QUERY_STRING' => 'auth_key=FMBr4Cr408QvrXy5Q9LFbjdzVx7E2rbg'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/bills'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => 'auth_key=FMBr4Cr408QvrXy5Q9LFbjdzVx7E2rbg'
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/bills?auth_key=FMBr4Cr408QvrXy5Q9LFbjdzVx7E2rbg'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446109431.156
+    'REQUEST_TIME' => 1446109431
+]
+2015-10-29 10:03:59 [::1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Undefined index: sku' in C:\wamp\www\easyecom-2\api\modules\v1\controllers\BillController.php:50
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\IndexAction.php(54): ::call_user_func:{C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\IndexAction.php:54}()
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\rest\IndexAction.php(44): yii\rest\IndexAction->prepareDataProvider()
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Action.php(92): yii\rest\IndexAction->run()
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Action.php(92): ::call_user_func_array:{C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Action.php:92}()
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\Action->runWithParams()
+#5 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction()
+#6 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction()
+#7 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest()
+#8 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#9 {main}
+2015-10-29 10:03:59 [::1][-][-][info][application] $_GET = [
+    'auth_key' => 'FMBr4Cr408QvrXy5Q9LFbjdzVx7E2rbg'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '1946162a-0900-e419-db37-7a629e6b75a5'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52986'
+    'REDIRECT_QUERY_STRING' => 'auth_key=FMBr4Cr408QvrXy5Q9LFbjdzVx7E2rbg'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/bills'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'auth_key=FMBr4Cr408QvrXy5Q9LFbjdzVx7E2rbg'
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/bills?auth_key=FMBr4Cr408QvrXy5Q9LFbjdzVx7E2rbg'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446109439.02
+    'REQUEST_TIME' => 1446109439
+]
+2015-10-29 10:06:21 [::1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Undefined index: sku' in C:\wamp\www\easyecom-2\api\modules\v1\controllers\BillController.php:102
+Stack trace:
+#0 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\InlineAction.php(55): ::call_user_func_array:{C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\InlineAction.php:55}()
+#1 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams()
+#2 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction()
+#3 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction()
+#4 C:\wamp\www\easyecom-2\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest()
+#5 C:\wamp\www\easyecom-2\api\web\index.php(17): yii\base\Application->run()
+#6 {main}
+2015-10-29 10:06:21 [::1][-][-][info][application] $_GET = [
+    'auth_key' => 'FMBr4Cr408QvrXy5Q9LFbjdzVx7E2rbg'
+    'sku' => 'vhjdbvs'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => 'e4464785-57f3-5017-cc14-3ea0e0e551a0'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8'
+    'PATH' => 'c:\\Program Files (x86)\\AMD APP\\bin\\x86_64;c:\\Program Files (x86)\\AMD APP\\bin\\x86;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Git\\cmd;C:\\wamp\\bin\\php\\php5.5.12;C:\\ProgramData\\ComposerSetup\\bin;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '::1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '::1'
+    'DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/wamp/www/'
+    'SERVER_ADMIN' => 'admin@example.com'
+    'SCRIPT_FILENAME' => 'C:/wamp/www/easyecom-2/api/web/index.php'
+    'REMOTE_PORT' => '52996'
+    'REDIRECT_QUERY_STRING' => 'auth_key=FMBr4Cr408QvrXy5Q9LFbjdzVx7E2rbg&sku=vhjdbvs'
+    'REDIRECT_URL' => '/easyecom-2/api/web/v1/bills/updateinventory'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => 'auth_key=FMBr4Cr408QvrXy5Q9LFbjdzVx7E2rbg&sku=vhjdbvs'
+    'REQUEST_URI' => '/easyecom-2/api/web/v1/bills/updateinventory?auth_key=FMBr4Cr408QvrXy5Q9LFbjdzVx7E2rbg&sku=vhjdbvs'
+    'SCRIPT_NAME' => '/easyecom-2/api/web/index.php'
+    'PHP_SELF' => '/easyecom-2/api/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1446109581.066
+    'REQUEST_TIME' => 1446109581
+]
